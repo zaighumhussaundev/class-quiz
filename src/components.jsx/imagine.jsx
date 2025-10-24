@@ -1,5 +1,5 @@
 import React from 'react'
-import "./imagine.css"
+import "../components.jsx/imagine.css"
 import { MdOutlineAutorenew } from "react-icons/md";
 import { MdStoreMallDirectory } from "react-icons/md";
 import { MdShoppingBasket } from "react-icons/md";

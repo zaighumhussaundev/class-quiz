@@ -1,0 +1,16 @@
+.books{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+gap: 10px;
+}
+.Book{
+    width: 200px;
+    border: 2px solid rgb(207, 207, 207);
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgb(208, 207, 207);
+}
+.Book img{
+    width: 100%;
+    height: 300px;
+}

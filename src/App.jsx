@@ -1,15 +1,17 @@
 import React from 'react'
-// import Header from './components.jsx/Header'
-import Imagine from './components.jsx/imagine'
+// import Template from './Topics/props/reacttemplate/Template'
+// import Propscomponent from './Topics/props/propscomponent'
+// import Bookstore from './projects/Bookstore'
+import Daraz from './projects/Daraz'
+
+
 
 
 
 function App() {
   return (
     <div>
-        {/* <Header/> */}
-        <Imagine/>
-      
+      <Daraz/>
     </div>
   )
 }

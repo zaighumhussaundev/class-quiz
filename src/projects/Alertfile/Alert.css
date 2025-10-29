@@ -1,0 +1,14 @@
+.show{
+    margin-top: 150px;
+    text-align: center;
+}
+button.showAlert{
+    padding: 10px;
+    font-size: 20px;
+}
+.Alert{
+    font-size: 20px;
+}
+.Alert button{
+    font-size: 20px;
+}

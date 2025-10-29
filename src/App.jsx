@@ -6,7 +6,8 @@
 // import images from './projects/images'
 // import  Components  from './projects/components'
 
-import Counter from "./projects/counter/Counter"
+// import Counter from "./projects/counter/Counter"
+import  Alert from "./projects/Alertfile/Alert"
 
 
 
@@ -18,7 +19,7 @@ function App() {
   return (
     <div>
      
-      <Counter/>
+     <Alert/>
       
 
     </div>
